@@ -4,7 +4,7 @@
   "info": {
     "name": "feetsaber",
     "id": "feetsaber",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "url": null,
     "additionalData": {
       "overrideSoName": "libfeetsaber.so"
@@ -13,7 +13,7 @@
   "dependencies": [
     {
       "id": "beatsaber-hook",
-      "versionRange": "^3.8.0",
+      "versionRange": "^3.14.0",
       "additionalData": {
         "extraFiles": [
           "src/inline-hook"
@@ -22,27 +22,27 @@
     },
     {
       "id": "codegen",
-      "versionRange": "^0.32.0",
+      "versionRange": "^0.33.0",
       "additionalData": {}
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.15.21",
+      "versionRange": "^0.15.23",
       "additionalData": {}
     },
     {
       "id": "questui",
-      "versionRange": "^0.17.5",
+      "versionRange": "^0.17.11",
       "additionalData": {}
     },
     {
       "id": "config-utils",
-      "versionRange": "^0.8.0",
+      "versionRange": "^1.0.2",
       "additionalData": {}
     },
     {
       "id": "modloader",
-      "versionRange": "=1.2.3",
+      "versionRange": "^1.2.3",
       "additionalData": {}
     }
   ],
